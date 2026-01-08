@@ -1,4 +1,4 @@
-# ChatGPT K-12 Teachers Verification Tool (Indonesia)
+# ChatGPT K-12 Teachers Verification Tool
 
 Tools Python canggih yang dirancang untuk **keperluan edukasi dan riset** dalam mengotomatisasi proses verifikasi guru K-12 dengan SheerID. Tools ini mendukung berbagai platform dan menyediakan metode koneksi fleksibel.
 
@@ -27,7 +27,7 @@ Tools Python canggih yang dirancang untuk **keperluan edukasi dan riset** dalam 
 
 1. **Download Package:**
    ```
-   ChatGPT_K12_Verification_Tool_Windows.zip
+   ChatGPT K-12 Teachers Verification Tool.zip
    ```
 
 2. **Extract ke folder:**
