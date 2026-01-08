@@ -83,8 +83,8 @@ Tools Python canggih yang dirancang untuk **keperluan edukasi dan riset** dalam 
 
 pkg update && pkg upgrade
 pkg install python git
-git clone https://github.com/MichaelJorky/ChatGPT-K-12-Teachers-Verification-Tool.git
-cd chatgpt-k12-verification
+git clone https://github.com/MichaelJorky/ChatGPT-K-12-Teachers-Verification-Tool.git chatgpt-k12-verifier
+cd chatgpt-k12-verifier/PyRuntime_32 atau cd chatgpt-k12-verifier/PyRuntime_64
 pip install httpx requests Pillow cloudscraper
 
 # Jalankan dengan CLI
@@ -95,8 +95,8 @@ python script.py "URL_VERIFIKASI" [OPTIONS]
 ```bash
 sudo apt update
 sudo apt install python3 python3-pip git
-git clone https://github.com/MichaelJorky/ChatGPT-K-12-Teachers-Verification-Tool.git
-cd chatgpt-k12-verification
+git clone https://github.com/MichaelJorky/ChatGPT-K-12-Teachers-Verification-Tool.git chatgpt-k12-verifier
+cd chatgpt-k12-verifier/PyRuntime_32 atau cd chatgpt-k12-verifier/PyRuntime_64
 pip3 install httpx requests Pillow cloudscraper
 ```
 
