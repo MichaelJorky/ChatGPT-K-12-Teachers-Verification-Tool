@@ -27,7 +27,7 @@ Tools Python canggih yang dirancang untuk **keperluan edukasi dan riset** dalam 
 
 1. **Download Package:**
    ```
-   ChatGPT K-12 Teachers Verification Tool.zip
+   ChatGPT-K-12-Teachers-Verification-Tool.zip
    ```
 
 2. **Extract ke folder:**
