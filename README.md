@@ -107,7 +107,7 @@ pip3 install httpx requests Pillow cloudscraper
 2. Extract dan jalankan `run_cmd.bat`
 3. **Tidak perlu install Python**
 
-### Metode 2: Manual Python Installation
+### Metode 2: Manual Python Installation (Optional hanya jika ada Error Modul)
 ```bash
 # Install package yang diperlukan
 pip install httpx requests Pillow cloudscraper
