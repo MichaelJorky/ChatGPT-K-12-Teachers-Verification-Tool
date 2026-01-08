@@ -160,7 +160,7 @@ python script.py "URL" --ask-email
 python script.py "URL" --no-temp-email
 ```
 
-## 📊 Metode Koneksi Dijelaskan
+## 📊 Metode Koneksi
 
 | No | Metode | Deskripsi | Cocok Untuk |
 |----|--------|-----------|-------------|
