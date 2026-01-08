@@ -290,12 +290,18 @@ dan jalankan script lagi dengan link baru
 ### Struktur File
 ```
 chatgpt-k12-verifier/
-├── PyRuntime_32/          # Untuk Windows 32-bit
-├── PyRuntime_64/          # Untuk Windows 64-bit
-├── k12_verifier.py        # Script utama
-├── run_cmd.bat           # Launcher Windows
-├── requirements.txt      # Dependencies
-└── README.md            # Dokumentasi
+├── PyRuntime_32/                # Untuk Windows 32-bit
+│   ├── script.py                # Script utama
+│   ├── run_cmd.bat              # Launcher Windows
+│   └── requirements.txt         # Dependencies
+│
+├── PyRuntime_64/                # Untuk Windows 64-bit
+│   ├── script.py                # Script utama
+│   ├── run_cmd.bat              # Launcher Windows
+│   └── requirements.txt         # Dependencies
+│
+├── LICENSE                      # Lisensi MIT
+└── README.md                    # Dokumentasi
 ```
 
 ## 🤝 Berkontribusi
