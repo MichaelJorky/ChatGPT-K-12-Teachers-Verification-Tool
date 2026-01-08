@@ -149,15 +149,15 @@ python script.py "URL" --debug
 ### Input Email Manual
 ```bash
 # Via argument
-python k12_verifier.py "URL" --email "user@example.com"
+python script.py "URL" --email "user@example.com"
 
 # Prompt interaktif
-python k12_verifier.py "URL" --ask-email
+python script.py "URL" --ask-email
 ```
 
 ### Tanpa Email Temporary
 ```bash
-python k12_verifier.py "URL" --no-temp-email
+python script.py "URL" --no-temp-email
 ```
 
 ## 📊 Metode Koneksi Dijelaskan
