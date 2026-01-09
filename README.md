@@ -357,6 +357,7 @@ Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) unt
 - **Issues**: [GitHub Issues](https://github.com/MichaelJorky/ChatGPT-K-12-Teachers-Verification-Tool/issues)
 - **Email**: wgalxczk3@mozmail.com
 - **Telegram**: [@teknoxpert](https://t.me/teknoxpert)
+- **Recommended**: [SheerID Verification Assistant via Web](https://ip123.in/sheerid/)
 
 ### 🔄 Update Terbaru
 - **v1.0.0**: Rilis awal dengan support Windows, Termux, Kali
